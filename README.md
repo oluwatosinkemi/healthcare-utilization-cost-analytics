@@ -103,9 +103,9 @@ Users can explore the dashboard using filters for:
 
 ## Key Findings
 
-### 1. High Repeat Utilisation
+### 1. High Repeat Visit Volume
 
-948 of 999 recorded visits were repeat visits, representing approximately 94.9% of all recorded visits.
+The dataset contains 999 recorded visits across 51 unique patients. Of these, 948 visits represent visits beyond each patient’s first recorded visit, equivalent to approximately 94.9% of all recorded visits.
 
 ### 2. Hypertension Had the Highest Utilisation and Cost
 
@@ -155,6 +155,8 @@ This analysis is based on a synthetic dataset and should not be interpreted as r
 The dataset does not provide sufficient information to establish causal relationships or determine whether observed patterns reflect broader healthcare trends.
 
 The high repeat visit volume, gender distribution and changes in expenditure should therefore be interpreted as patterns within the available dataset.
+
+The dataset contains 999 recorded visits, of which 961 have available cost values and 38 have missing cost values. Missing values were retained and not imputed. Total healthcare expenditure and average cost are calculated using available cost values only. Findings describe patterns within this synthetic dataset and should not be interpreted as population level estimates or causal relationships.
 
 ## Project Outcome
 
