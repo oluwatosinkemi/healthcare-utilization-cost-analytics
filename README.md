@@ -101,11 +101,11 @@ Users can explore the dashboard using filters for:
 * Gender
 * Payment Type
 
-* Dashboard Preview
+Dashboard Preview
 
 Healthcare Utilization & Cost Analytics Dashboard
 
-The interactive Power BI dashboard explores patient visits, diagnoses, demographics, and healthcare expenditure from 2022 to 2024.
+The Power BI dashboard explores patient visits, diagnoses, demographics, and healthcare expenditure from 2022 to 2024.
 
 Insights and Recommendations
 
