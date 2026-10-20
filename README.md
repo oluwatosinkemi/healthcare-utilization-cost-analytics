@@ -101,6 +101,18 @@ Users can explore the dashboard using filters for:
 * Gender
 * Payment Type
 
+* Dashboard Preview
+
+Healthcare Utilization & Cost Analytics Dashboard
+
+The interactive Power BI dashboard explores patient visits, diagnoses, demographics, and healthcare expenditure from 2022 to 2024.
+
+Insights and Recommendations
+
+The analysis highlights patterns in repeat visit volume, diagnosis related expenditure, annual healthcare costs, and recorded visits by gender.
+
+To explore the report interactively, see the Power BI file in the powerbi/ folder.
+
 ## Key Findings
 
 ### 1. High Repeat Visit Volume
