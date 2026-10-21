@@ -106,10 +106,12 @@ Dashboard Preview
 Healthcare Utilization & Cost Analytics Dashboard
 
 The Power BI dashboard explores patient visits, diagnoses, demographics, and healthcare expenditure from 2022 to 2024.
+![Healthcare Utilization and Cost Analytics Dashboard](dashboard/dashboard_overview.png)
 
 Insights and Recommendations
 
 The analysis highlights patterns in repeat visit volume, diagnosis related expenditure, annual healthcare costs, and recorded visits by gender.
+![Healthcare Analytics Insights and Recommendations](dashboard/insights_recommendations.png)
 
 To explore the report interactively, see the Power BI file in the powerbi/ folder.
 
