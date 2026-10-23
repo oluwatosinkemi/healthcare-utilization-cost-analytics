@@ -119,7 +119,7 @@ To explore the report interactively, see the Power BI file in the powerbi/ folde
 
 ### 1. High Repeat Visit Volume
 
-The dataset contains 999 recorded visits across 51 unique patients. Of these, 948 visits represent visits beyond each patient’s first recorded visit, equivalent to approximately 94.9% of all recorded visits.
+The dataset contains 999 recorded visits across 51 unique patients. Of these, 948 visits occurred beyond each patient's first recorded visit, representing approximately 94.9% of all recorded visits.
 
 ### 2. Hypertension Had the Highest Utilisation and Cost
 
