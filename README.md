@@ -164,13 +164,11 @@ Investigate the factors contributing to the approximately 80% male and 20% femal
 
 ## Data Limitations
 
-This analysis is based on a synthetic dataset and should not be interpreted as representing actual healthcare utilization or population level estimates.
+Data Limitations
 
-The dataset does not provide sufficient information to establish causal relationships or determine whether observed patterns reflect broader healthcare trends.
+This analysis uses a synthetic dataset of 999 recorded patient visits and does not represent actual healthcare utilisation or population-level estimates. The dataset contains 961 available cost values and 38 missing cost values. Missing values were retained and not imputed; total healthcare expenditure and average cost were calculated using available cost values only.
 
-The high repeat visit volume, gender distribution and changes in expenditure should therefore be interpreted as patterns within the available dataset.
-
-The dataset contains 999 recorded visits, of which 961 have available cost values and 38 have missing cost values. Missing values were retained and not imputed. Total healthcare expenditure and average cost are calculated using available cost values only. Findings describe patterns within this synthetic dataset and should not be interpreted as population level estimates or causal relationships.
+The analysis identifies patterns in repeat visit volume, gender distribution, and healthcare expenditure but does not establish causal relationships or demonstrate broader healthcare trends.
 
 ## Project Outcome
 
